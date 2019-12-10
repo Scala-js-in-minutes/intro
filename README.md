@@ -1,2 +1,2 @@
-# intro
+# WIP
 Why scala.js? 
