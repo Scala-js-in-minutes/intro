@@ -1,0 +1,2 @@
+# intro
+Why scala.js? 
